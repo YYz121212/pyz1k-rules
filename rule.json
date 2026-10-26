@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "modules": {
+    "Menu": true,
+    "Interface": true,
+    "ItemCooldowns": true,
+    "PvPCooldown": true,
+    "PotionList": true,
+    "ArmorHUD": true,
+    "KillEffects": true,
+    "LegaTracker": true,
+    "MusicPlayer": true,
+    "ItemLock": true,
+    "ItemRender": true,
+    "HandRender": true,
+    "Ability": true
+  }
+}

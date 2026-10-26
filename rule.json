@@ -6,7 +6,7 @@
     "Interface": true,
     "ItemCooldowns": true,
     "PvPCooldown": true,
-    "PotionList": true,
+    "PotionList": false,
     "ArmorHUD": true,
     "KillEffects": true,
     "LegaTracker": true,

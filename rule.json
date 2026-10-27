@@ -10,7 +10,7 @@
     "ArmorHUD": false,
     "KillEffects": true,
     "LegaTracker": true,
-    "MusicPlayer": true,
+    "MusicPlayer": false,
     "ItemLock": true,
     "ItemRender": true,
     "HandRender": true,

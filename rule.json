@@ -20,11 +20,9 @@
   },
   "users": {},
   "discord": {
-    "applicationId": "1566098655050731600",
-    "details": "Pyz1k Client",
-    "state": "Играет в Minecraft",
-    "largeImage": "logo",
-    "largeText": "Pyz1k Client"
+  "applicationId": "1566098655050731600",
+  "largeImage": "logo",
+  "largeText": "Pyz1k Client"
   }
 }
 

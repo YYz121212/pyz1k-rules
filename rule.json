@@ -8,7 +8,7 @@
     "PvPCooldown": true,
     "PotionList": true,
     "ArmorHUD": false,
-    "KillEffects": true,
+    "KillEffects": false,
     "LegaTracker": true,
     "MusicPlayer": false,
     "ItemLock": true,

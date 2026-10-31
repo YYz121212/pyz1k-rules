@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "revision": 1,
+  "schemaVersion": 2,
+  "revision": 2,
   "modules": {
     "Menu": true,
     "Interface": true,
@@ -14,6 +14,17 @@
     "ItemLock": true,
     "ItemRender": true,
     "HandRender": true,
-    "Ability": true
+    "Ability": true,
+    "VisualHat": true,
+    "DiscordRPC": true
+  },
+  "users": {},
+  "discord": {
+    "applicationId": "1566098655050731600",
+    "details": "Pyz1k Client",
+    "state": "Играет в Minecraft",
+    "largeImage": "logo",
+    "largeText": "Pyz1k Client"
   }
 }
+
